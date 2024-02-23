@@ -8,7 +8,7 @@ Exposition temporaire, intérieure, immersive
 
 **Regardez un extrait**
 
-[Courte vidéo de Shape Shifting Index]()
+[![Shape Shifting Index Video](https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D_grfOo_T6cc)](https://www.youtube.com/watch?v=_grfOo_T6cc)
 
 <br>
 
