@@ -8,7 +8,7 @@ Exposition temporaire, intérieure, immersive
 
 **Regardez un extrait**
 
-[Shape Shifting Index Demo](https://github.com/RaphBarniques/H24_V11_inspirations_DUMONT/blob/f16acf5aaed2317410047b6177f62c90a76b6437/JEREMY_SHAW_shape_shifting_index/medias/resto_porte.png)
+[Courte vidéo de Shape Shifting Index]()
 
 <br>
 
