@@ -1,14 +1,17 @@
 # Générations MTL
 *TKNL, Studio LEX, El Toro Studio, 20K et Troublemakers, 2019*
 
-Pointe-à-Callière, visité le 2 mai 2024.
-Exposition permanante, intérieure, spectacle mutlimédia
+**Pointe-à-Callière, visité le 2 mai 2024.**
+
+**Exposition permanante, intérieure, spectacle mutlimédia**
+
 Durée de 17 minutes
+
 À tout les 30 minutes, 10h30-16h30 sur semaine, 11h30-16h30 sur fin de semaine
 
 ## L'oeuvre
 
-[Photo de l'oeuvre](https://github.com/RaphBarniques/H24_V11_inspirations_DUMONT/blob/e369b7d86ab2428c882a2dcc506136f726ef1335/PAC_generations_mtl/medias/show3.png)
+![Photo de l'oeuvre](https://github.com/RaphBarniques/H24_V11_inspirations_DUMONT/blob/e369b7d86ab2428c882a2dcc506136f726ef1335/PAC_generations_mtl/medias/show3.png)
 
 **Regardez un extrait**
 
@@ -28,17 +31,17 @@ Jamais l’histoire n’aura été si vivante !* - Source : Site web de PAC
 
 Se trouvant dans le pavillon A, la grande salle compte quelques rangées de sièges. Derrière chaque sièges se trouve une paire d'écouteur. Sur l'accoudoir droit, on peut retrouver un bouton pour le volume et un autre pour sélectionner la langue.
 
-[Salle](https://github.com/RaphBarniques/H24_V11_inspirations_DUMONT/blob/e369b7d86ab2428c882a2dcc506136f726ef1335/PAC_generations_mtl/medias/salle.png)
+![Salle](https://github.com/RaphBarniques/H24_V11_inspirations_DUMONT/blob/e369b7d86ab2428c882a2dcc506136f726ef1335/PAC_generations_mtl/medias/salle.png)
 
-[Siege](https://github.com/RaphBarniques/H24_V11_inspirations_DUMONT/blob/e369b7d86ab2428c882a2dcc506136f726ef1335/PAC_generations_mtl/medias/siege.png)
+![Siege](https://github.com/RaphBarniques/H24_V11_inspirations_DUMONT/blob/e369b7d86ab2428c882a2dcc506136f726ef1335/PAC_generations_mtl/medias/siege.png)
 
 Les murs servant à la projections sont découpés par des bandes LED qui en plus de faire des effets visuels peuvent aider à compartimenter la projection. Au sol, les ruines servent aussi au spectacle. Des lumières et projecteurs les transforme au fil de l'histoire. De plus, des grandds tissus presque transparents sont tendus au centre de la scène. Ils servent à briser le look 2D en faisant apparaître des personnage comme des hologrammes.
 
-[Scène](https://github.com/RaphBarniques/H24_V11_inspirations_DUMONT/blob/e369b7d86ab2428c882a2dcc506136f726ef1335/PAC_generations_mtl/medias/scene.png)
+![Scène](https://github.com/RaphBarniques/H24_V11_inspirations_DUMONT/blob/e369b7d86ab2428c882a2dcc506136f726ef1335/PAC_generations_mtl/medias/scene.png)
 
 Je n'ai pas réussi à mettre la main sur un schéma de l'installation mais j'ai tout de même trouvé une photo du logiciel de design.
 
-[Logiciel](https://github.com/RaphBarniques/H24_V11_inspirations_DUMONT/blob/7261c8b8803a56517267e85180015ad4eb59d513/PAC_generations_mtl/medias/logiciel.png)
+![Logiciel](https://github.com/RaphBarniques/H24_V11_inspirations_DUMONT/blob/7261c8b8803a56517267e85180015ad4eb59d513/PAC_generations_mtl/medias/logiciel.png)
 Source: Site web de Troublemakers
 
 <br>
@@ -75,7 +78,7 @@ Liste des autres éléments nécessaires:
 **Point bonus**
 
 Voici une photo du Vieux-Port prise du dernier étage de la tour du Pavillon A
-[Photo](https://github.com/RaphBarniques/H24_V11_inspirations_DUMONT/blob/7261c8b8803a56517267e85180015ad4eb59d513/PAC_generations_mtl/medias/vieux_port.png)
+![Photo](https://github.com/RaphBarniques/H24_V11_inspirations_DUMONT/blob/7261c8b8803a56517267e85180015ad4eb59d513/PAC_generations_mtl/medias/vieux_port.png)
 <br>
 
 **Sites web consulté**
